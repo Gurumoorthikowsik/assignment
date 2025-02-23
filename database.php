@@ -1,9 +1,9 @@
 <?php
 // Database credentials
 $host = "localhost";
-$user = "root";
-$pass = "";
-$db = "";
+$user = "u789913190_BSassignment";
+$pass = "BraveSpark@2715";
+$db   = "u789913190_cee_db";
 
 // Create connection
 $conn = newmysqli($host, $user, $pass, $db);  

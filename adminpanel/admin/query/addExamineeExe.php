@@ -6,9 +6,9 @@ ini_set('display_errors', 1);
 
 // Database connection
 $host = "localhost";
-$user = "root";
-$pass = "";
-$db   = "cee_db";
+$user = "u789913190_BSassignment";
+$pass = "BraveSpark@2715";
+$db   = "u789913190_cee_db";
 
 try {
     $conn = new PDO("mysql:host={$host};dbname={$db};charset=utf8", $user, $pass, [

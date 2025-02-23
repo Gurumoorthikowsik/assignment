@@ -1,8 +1,8 @@
 <?php 
 $host = "localhost";
-$user = "root";
-$pass = "";
-$db   = "cee_db";
+$user = "u789913190_BSassignment";
+$pass = "BraveSpark@2715";
+$db   = "u789913190_cee_db";
 $conn = null;
 
   // Create connection using MySQLi
