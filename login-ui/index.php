@@ -12,7 +12,7 @@
 	<meta property="og:description" content="Assesment Protrol" />
 	<meta property="og:image" content="social-image.png"/>
 	<meta name="format-detection" content="telephone=no">
-    <title>Assesment Protrol </title>
+    <title>Assessment Portal </title>
     <link rel="icon" type="image/png" sizes="16x16" href="https://res.cloudinary.com/dquf5z1nx/image/upload/v1740328907/brave-icon_dhxn82.png">
 	<link href="assets/login-assets/vendor/bootstrap-select/dist/css/bootstrap-select.min.css" rel="stylesheet">
     <link href="assets/login-assets/css/style.css" rel="stylesheet">
