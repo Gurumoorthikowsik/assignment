@@ -44,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>BraveSpake Assignment</title>
+	<title>BraveSpark Assessment</title>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" type="login-ui/image/png" href="https://res.cloudinary.com/dquf5z1nx/image/upload/v1740328907/brave-icon_dhxn82.png"/>
